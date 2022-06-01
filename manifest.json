@@ -1,7 +1,7 @@
 {
   "name": "rewriter-pages-draft",
   "vendor": "vtex",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "title": "Draft Pages feature",
   "description": "Application to allow pages in draft mode",
   "mustUpdateAt": "2022-05-30",
@@ -12,9 +12,6 @@
   "builders": {
     "node": "6.x",
     "docs": "0.x"
-  },
-  "scripts": {
-    "prereleasy": "bash lint.sh"
   },
   "credentialType": "absolute",
   "policies": [
