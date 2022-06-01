@@ -15,3 +15,7 @@ For example this URL should not be available publicly, only when using myvtex do
 https://miguelcarrera--vtexspain.myvtex.com/_draft/pillows1234
 
 IMPORTANT: NOT SUPPORTED FOR ACCOUNTS WITH BINDINGS
+
+**Upcoming documentation:**
+
+ - [Release](https://github.com/vtex-apps/rewriter-pages-draft/pull/2)
